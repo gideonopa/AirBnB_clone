@@ -1,5 +1,6 @@
 # AirBnB_clone
-About
+
+About Project
 This is a Airbnb clone projects that will be build with the aim to learn and apply concepts of high level programming and software engineering in general
 
 # Getting Started
@@ -56,4 +57,4 @@ Quit the shell
 # Built Using
 Python - Programming language
 # Authors
-
+Samuel Tefera & Gideon Oparinde
